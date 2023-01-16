@@ -1,0 +1,4 @@
+/Users/breajacq/Projects/C_Projects/C7_SmartCalc_v1.0-1/src/build/CMakeFiles/qt.dir
+/Users/breajacq/Projects/C_Projects/C7_SmartCalc_v1.0-1/src/build/CMakeFiles/edit_cache.dir
+/Users/breajacq/Projects/C_Projects/C7_SmartCalc_v1.0-1/src/build/CMakeFiles/rebuild_cache.dir
+/Users/breajacq/Projects/C_Projects/C7_SmartCalc_v1.0-1/src/build/CMakeFiles/qt_autogen.dir
